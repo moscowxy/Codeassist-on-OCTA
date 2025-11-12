@@ -1,8 +1,6 @@
----
+#  OCTA üzerinde CodeAssist 
 
-# ⚡ OCTA üzerinde CodeAssist 
-
-0) Sudo'yu Yükle
+## 0) Sudo'yu Yükle
 
 ```bash
 apt install -y sudo
